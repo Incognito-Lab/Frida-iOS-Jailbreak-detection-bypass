@@ -30,6 +30,11 @@ const jailbreakPaths = [
     "/Applications/iProtect.app",
     "/Applications/Backgrounder.app",
     "/Applications/biteSMS.app",
+    "/Applications/limera1n.app",
+    "/Applications/greenpois0n.app",
+    "/Applications/blacksn0w.app",
+    "/Applications/redsn0w.app",
+    "/Applications/Absinthe.app",
     "/Library/MobileSubstrate/DynamicLibraries/LiveClock.plist",
     "/Library/MobileSubstrate/DynamicLibraries/Veency.plist",
     "/Library/MobileSubstrate/DynamicLibraries/SBSettings.dylib",
@@ -75,7 +80,8 @@ const jailbreakPaths = [
     "/var/lib/dpkg/info/mobileterminal.postinst",
     "/User/Library/SBSettings",
     "/usr/bin/sbsettingsd",
-    "/var/mobile/Library/SBSettings"
+    "/var/mobile/Library/SBSettings",
+    "/private/var/lib/apt/",
 ];
 
 //App URL list in lower case for canOpenURL
